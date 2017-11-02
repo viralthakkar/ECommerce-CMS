@@ -8,7 +8,7 @@ The Internet is growing faster and Cost of development is becoming cheaper. A bu
 ### Features ###
 
 * Product Categories Management
-* Product and Coustomized and Fixed Product Attribute Management
+* Product and Customized and Fixed Product Attribute Management
 * SEO Management
 * Discount and Offers Management
 * Coustomer Management
