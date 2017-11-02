@@ -24,3 +24,5 @@ The Internet is growing faster and Cost of development is becoming cheaper. A bu
 Change Following Files from application/config folder
 * database.php - add your database detail
 * config.php - add your project directory
+
+Upload ascreation.sql to mysql database from project folder
