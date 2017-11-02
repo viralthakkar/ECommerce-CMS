@@ -8,12 +8,12 @@ The Internet is growing faster and Cost of development is becoming cheaper. A bu
 ### Features ###
 
 * Product Categories Management
-* Product and Customized and Fixed Product Attribute Management
+* Product and Customized & Fixed Product Attribute Management
 * SEO Management
 * Discount and Offers Management
-* Coustomer Management
-* Coustomer Inquiry Management
-* Order Management and its status mangement
+* Customer Management
+* Customer Inquiry Management
+* Order Management and its status management
 * Access Control Management for Platform.
 * Subscriber Management
 
