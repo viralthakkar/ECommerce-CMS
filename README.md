@@ -1,29 +1,26 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+# ECommerce Platform 
 
-### What is this repository for? ###
+The Internet is growing faster and Cost of development is becoming cheaper. A business owner wants their present online faster and cheaper way in this competitive world. From small business owner to large companies want to sell their services and products online. This platform will help small and medium business owner open their store online without any hassle. It has customized Admin Panel that small and medium-size business owner can manage it. They just need to care about how their website will look and Admin Panel will communicate it. It is built on an advanced architecture that, a business owner can customize or develop new functionality based on the current system.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
+### Features ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Product Categories Management
+* Product and Coustomized and Fixed Product Attribute Management
+* SEO Management
+* Discount and Offers Management
+* Coustomer Management
+* Coustomer Inquiry Management
+* Order Management and its status mangement
+* Access Control Management for Platform.
+* Subscriber Management
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
 
-### Who do I talk to? ###
+### Setup ####
 
-* Repo owner or admin
-* Other community or team contact
+Change Following Files from application/config folder
+* database.php - add your database detail
+* config.php - add your project directory
